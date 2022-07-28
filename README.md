@@ -1,2 +1,2 @@
 # Emails
- for CCC
+ A compilation of my emails in my Yahoo inbox from 2008-2010 forms a dataset...
