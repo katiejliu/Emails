@@ -1,3 +1,6 @@
+#code modified from https://thecleverprogrammer.com/2020/12/20/text-generation-with-python/
+#thank you so much!
+
 from tensorflow import keras
 from keras.preprocessing.sequence import pad_sequences
 from keras.layers import Embedding, LSTM, Dense, Dropout
