@@ -142,6 +142,6 @@ def generate_text(seed_text, next_words, model, max_sequence_len):
 print (generate_text("love", 50, model, max_sequence_len))
 print (generate_text("play", 10, model, max_sequence_len))
 print (generate_text("hard work", 4, model, max_sequence_len))
-print (generate_text("india and china", 4, model, max_sequence_len))
+print (generate_text("dad", 4, model, max_sequence_len))
 # print (generate_text("new york", 4, model, max_sequence_len))
 # print (generate_text("science and technology", 5, model, max_sequence_len))
